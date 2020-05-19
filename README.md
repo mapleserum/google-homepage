@@ -1,1 +1,1 @@
-This project attempts to migrate a web page from the internet using the "inspect-element" feature.
+This project attempts to copycat the Google homepage by using the "inspect-element" feature. Completed May 19,2020.
